@@ -51,6 +51,10 @@ npm install
 npm start
 ```
 
+# Video Demo
+
+[Click here to watch the video demo](https://drive.google.com/file/d/13yJmWdzHcMoiuHqOmzrggXODTmj5dBGD/view)
+
 ## Screenshots
 
 ![image](https://github.com/sarthakkurothe/vahan-assignment/assets/86231596/2dad6101-7b17-422b-acf5-1ad6a5aef9f9)
