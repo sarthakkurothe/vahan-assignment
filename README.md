@@ -52,3 +52,12 @@ npm start
 ```
 
 ## Screenshots
+
+![image](https://github.com/sarthakkurothe/vahan-assignment/assets/86231596/2dad6101-7b17-422b-acf5-1ad6a5aef9f9)
+
+![image](https://github.com/sarthakkurothe/vahan-assignment/assets/86231596/4878ea6b-5d18-4351-89da-77dd4887fe8f)
+
+![image](https://github.com/sarthakkurothe/vahan-assignment/assets/86231596/6935d4f1-feed-4144-92ec-04b0ba9738a3)
+
+
+
